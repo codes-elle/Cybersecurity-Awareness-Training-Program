@@ -1,4 +1,4 @@
-# Cybersecurity-Awareness-Training-Program
+# Cybersecurity Awareness Training Program
 ### Cybersecurity Awareness Training Program Assignment
 
 #### Objective:
